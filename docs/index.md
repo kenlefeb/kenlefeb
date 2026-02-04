@@ -9,7 +9,7 @@ I'm passionate about building the best solutions possible within business constr
 ## Career Highlights
 
 - **IT Manager** at **Federal Reserve Bank of Cleveland** (2024 - Present)  
-  Leading application development teams and overseeing design, development, and testing of software solutions, including teams specializing in low-code development with UiPath and Power Platform.
+  Currently managing a team of software architects and providing architecture leadership to the entire Cleveland district. Previously led three application development teams, overseeing design, development, and testing of software solutions, including teams specializing in low-code development with UiPath and Power Platform.
 
 - **Cloud Application Architect** at **Amazon Web Services**  
   Provided technical leadership on application architecture, design patterns, and best practices for cloud-based applications. Led UX design/development for internal ML pipeline project using Figma and AWS Amplify Studio.
