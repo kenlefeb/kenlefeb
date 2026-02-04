@@ -27,12 +27,6 @@ I'm passionate about building the best solutions possible within business constr
 - **Architecture**: Microservices, Serverless, API Design, Cloud-Native Solutions
 - **Industries**: Transportation Logistics, Financial Services, Manufacturing
 
-## What I'm Currently Working On
-
-🔭 Leading development teams at the Federal Reserve Bank of Cleveland  
-🌱 Always exploring better ways to solve problems with software  
-💡 Mentoring developers and fostering technical excellence
-
 ## Let's Connect
 
 📫 **[View my full LinkedIn profile](https://linkedin.com/in/kenlefeb)** for complete experience and background  
