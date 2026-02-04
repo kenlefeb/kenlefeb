@@ -1,4 +1,4 @@
-# Ken Lefeb
+# Ken LeFebvre
 
 ## About Me
 
@@ -8,7 +8,7 @@ I'm passionate about building the best solutions possible within business constr
 
 ## Career Highlights
 
-- **IT Manager** at **Federal Reserve Bank of Cleveland** (2024 - Present)  
+- **IT Manager** and **Architect in Charge** at **Federal Reserve Bank of Cleveland** (2024 - Present)  
   Currently managing a team of software architects and providing architecture leadership to the entire Cleveland district. Previously led three application development teams, overseeing design, development, and testing of software solutions, including teams specializing in low-code development with UiPath and Power Platform.
 
 - **Cloud Application Architect** at **Amazon Web Services**  
@@ -26,12 +26,6 @@ I'm passionate about building the best solutions possible within business constr
 - **Languages**: C#, Python, .NET (Framework & Core), JavaScript/React
 - **Architecture**: Microservices, Serverless, API Design, Cloud-Native Solutions
 - **Industries**: Transportation Logistics, Financial Services, Manufacturing
-
-## What I'm Currently Working On
-
-🔭 Leading development teams at the Federal Reserve Bank of Cleveland  
-🌱 Always exploring better ways to solve problems with software  
-💡 Mentoring developers and fostering technical excellence
 
 ## Let's Connect
 
