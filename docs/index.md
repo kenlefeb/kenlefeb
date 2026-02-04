@@ -8,7 +8,7 @@ I'm passionate about building the best solutions possible within business constr
 
 ## Career Highlights
 
-- **IT Manager** at **Federal Reserve Bank of Cleveland** (2024 - Present)  
+- **IT Manager** and **Architect in Charge** at **Federal Reserve Bank of Cleveland** (2024 - Present)  
   Currently managing a team of software architects and providing architecture leadership to the entire Cleveland district. Previously led three application development teams, overseeing design, development, and testing of software solutions, including teams specializing in low-code development with UiPath and Power Platform.
 
 - **Cloud Application Architect** at **Amazon Web Services**  
