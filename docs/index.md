@@ -1,4 +1,4 @@
-# Ken Lefeb
+# Ken LeFebvre
 
 ## About Me
 
